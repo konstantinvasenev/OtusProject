@@ -475,6 +475,7 @@
 			<Catalog>ИсходящиеПисьма</Catalog>
 			<Catalog>ХранилищеВариантовОтчетов</Catalog>
 			<Catalog>Встречи</Catalog>
+			<Catalog>МестаХранения</Catalog>
 			<Document>Заказ</Document>
 			<Document>ОперацияПоУчетуТоваров</Document>
 			<Document>Оплата</Document>
