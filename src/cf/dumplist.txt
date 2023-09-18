@@ -1,1 +1,1 @@
-﻿Modified: Document.Оплата
+﻿Modified: Document.ПоступлениеДенег
